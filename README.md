@@ -2,14 +2,6 @@
 
 My name is Ivanitsky Dmitry Aleksandrovich and I'm starting my backend development career. 
 I'm fond of it and have been improving my skills for 2 years <br><br>
-📍 Moscow
-
-
-## Сontacts ☎️
-
-💬 [t.me/hisoakende](https://t.me/hisoakende) <br>
-✉️ hisoakende@gmail.com
-
 
 ## Education 🎓
 
@@ -41,4 +33,4 @@ Bachelor's degree, software engineering
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hisoakende&layout=compact)](https://github.com/hisoakende/github-readme-stats) 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=hisoakende&)](https://github.com/hisoakende/leetcode-stats)
+[![hisoakende's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=hisoakende)](https://github.com/hisoakende/leetcode-stats)
