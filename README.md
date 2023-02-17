@@ -1,7 +1,7 @@
 ###  Who am I? 🤔
 
 My name is Ivanitsky Dmitry Aleksandrovich and I'm starting my backend development career. 
-I'm fond of it and have been improving my skills for 2 years <br><br>
+I'm fond of it and have been improving my skills for 2 years
 
 ## Education 🎓
 
