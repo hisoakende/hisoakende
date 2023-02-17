@@ -1,16 +1,44 @@
-### Hi there 👋
+###  Who am I? 🤔
 
-<!--
-**hisoakende/hisoakende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ivanitsky Dmitry Aleksandrovich and I'm starting my backend development career. 
+I'm fond of it and have been improving my skills for 2 years <br><br>
+📍 Moscow
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Сontacts ☎️
+
+💬 [t.me/hisoakende](https://t.me/hisoakende) <br>
+✉️ hisoakende@gmail.com
+
+
+## Education 🎓
+
+MIREA — Russian Technological University, 2026 <br>
+Bachelor's degree, software engineering
+
+## Skills ⚒️
+
+* Python, C++
+* Django, Django Rest Framework
+* SQL, git
+* WebSocket
+
+## Projects 👨‍💻
+
+* [Sea Battle API](https://github.com/hisoakende/sea_battle)
+  * Python, Django, Django Rest Framework, Django Channels
+
+* [Accounting system for goods among roommates](https://github.com/hisoakende/hostel_accounting)
+  * Python, Django, Django Rest Framework
+
+* [System of online education](https://github.com/hisoakende/web_education)
+  * Native Python
+
+## Courses 📚
+
+* OOP Python (Stepik)
+* SQL (Stepik)
+<hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hisoakende&layout=compact)](https://github.com/hisoakende/github-readme-stats) 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=hisoakende&)](https://github.com/hisoakende/leetcode-stats)
